@@ -1,0 +1,20 @@
+1712397469716	geckodriver	INFO	Listening on 127.0.0.1:53639
+1712397472799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53640" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fylmz\\AppData\\Local\\Temp\\rust_mozprofile1apDSi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712397473275	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712397473367	Marionette	INFO	Listening on port 53647
+WebDriver BiDi listening on ws://127.0.0.1:53640
+Read port: 53647
+1712397473589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53640/devtools/browser/ad70c5d6-7197-4c03-9a8d-1731dad391bc
+JavaScript error: https://www.n11.com/, line 3189: ReferenceError: jQuery is not defined
+JavaScript warning: https://n11-core.cbot.ai/js/widget/cbot-n11prod-generator.js?v=160923, line 1968: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.n11.com."
+JavaScript warning: https://n11-core.cbot.ai/js/widget/cbot-n11prod-generator.js?v=160923, line 1968: unreachable code after return statement
+1712397486303	Marionette	INFO	Stopped listening on port 53647
+JavaScript warning: https://n11scdn.akamaized.net/static/new-design/static/output/js/n11_1712047716152.js, line 1: Script terminated by timeout at:
+st@https://n11scdn.akamaized.net/static/new-design/static/output/js/n11_1712047716152.js:1:58337
+
+Dynamically enable window occlusion 1

@@ -1,0 +1,18 @@
+1712397442961	geckodriver	INFO	Listening on 127.0.0.1:53519
+1712397446030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53520" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fylmz\\AppData\\Local\\Temp\\rust_mozprofile2o2M2l"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712397446811	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712397446954	Marionette	INFO	Listening on port 53528
+WebDriver BiDi listening on ws://127.0.0.1:53520
+Read port: 53528
+1712397447269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53520/devtools/browser/6057ed09-5284-475b-a046-a796f4349374
+JavaScript warning: https://n11-core.cbot.ai/js/widget/cbot-n11prod-generator.js?v=160923, line 1968: unreachable code after return statement
+1712397458222	Marionette	INFO	Stopped listening on port 53528
+JavaScript warning: https://pcdn.dengage.com/p/push/148/c89e71fb-6da3-4eb1-2479-4af53c45ae19/dengage_sdk.js, line 1: Script terminated by timeout at:
+@https://pcdn.dengage.com/p/push/148/c89e71fb-6da3-4eb1-2479-4af53c45ae19/dengage_sdk.js:1:6135
+@https://pcdn.dengage.com/p/push/148/c89e71fb-6da3-4eb1-2479-4af53c45ae19/dengage_sdk.js:149:33
+
+Dynamically enable window occlusion 1
